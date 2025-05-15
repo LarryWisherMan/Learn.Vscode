@@ -63,23 +63,19 @@ The Terminal is integrated into VS Code and allows you to run commands directly.
 
 ### Exercise 4: Run a Script
 
-1. Create a simple script file named `script.sh`:
+1. Create a simple PowerShell script file named `script.ps1`:
 
-   ```bash
-   echo -e "#!/bin/bash\necho 'This is a script running in the terminal!'" > script.sh
+   ```powershell
+   echo "Write-Host 'This is a script running in the terminal!'" > script.ps1
    ```
 
-2. Make the script executable:
+2. Run the script in the terminal:
 
-   ```bash
-   chmod +x script.sh
+   ```powershell
+   .\script.ps1
    ```
 
-3. Run the script:
-
-   ```bash
-   ./script.sh
-   ```
+This exercise demonstrates how to create and execute a PowerShell script on a Windows machine.
 
 ### Exercise 5: Run PowerShell Scripts
 
