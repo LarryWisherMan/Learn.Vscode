@@ -6,7 +6,7 @@ If this hasn't already been done, use the following commands in the terminal:
 
 ```powershell
 git config --global user.name "Your Name"
-git config --global user.email "[your.email@example.com](mailto:your.email@example.com)"
+git config --global user.email "your.email@example.com"
 ```
 
 You can verify your current configuration at any time:

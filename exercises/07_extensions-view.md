@@ -20,23 +20,27 @@ Visual Studio Code supports a wide range of extensions to enhance your scripting
    - Or press `Ctrl+Shift+X`
 
 2. In the **search bar**, type:
-```
+
+```text
 PowerShell
 ```
 
-3. Verify the **PowerShell extension by Microsoft** is installed.
+1. Verify the **PowerShell extension by Microsoft** is installed.
+
 - It should appear first in the list.
 - If installed, you will see "Uninstall" and "Disable" buttons (do not uninstall).
 - If it is not installed (unlikely), click **Install**.
 
-4. Click on the extension to view its full details.
+2. Click on the extension to view its full details.
+
 - Read the description and note key features:
   - Syntax highlighting
   - IntelliSense
   - Script execution and debugging support
   - Integrated terminal support
 
-5. (Optional) Browse other recommended extensions:
+3. (Optional) Browse other recommended extensions:
+
 - Search for: `Markdown All in One`, `GitLens`, or `PSScriptAnalyzer`
 
 ---
